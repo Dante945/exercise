@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Burger
 Pasta
 Dumplings
-=======
 Inception
->>>>>>> movies
